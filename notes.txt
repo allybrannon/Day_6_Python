@@ -1,0 +1,3 @@
+-print, len, type are functions
+-You can execute a function inside another function (print(type(blah)))
+-scope of variable stays within it's own scope 
